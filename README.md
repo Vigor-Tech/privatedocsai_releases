@@ -16,7 +16,6 @@ To install the latest version of PrivateDocs AI, go to our [Releases Page](../..
 
 * **Windows:** Download the `.msi.zip` or `.exe` file.
 * **macOS (Apple Silicon & Intel):** Download the `.app.tar.gz` or `.dmg` file.
-* **Linux:** Download the `.AppImage.tar.gz` or `.deb` file.
 
 ## 🚀 Getting Started
 
