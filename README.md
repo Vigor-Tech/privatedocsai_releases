@@ -39,6 +39,3 @@ If you discover a severe security vulnerability, email us directly at `security@
 
 PrivateDocs AI is a commercial product developed by **VigorTech LLC**. 
 Downloading and using this software is subject to our [End User License Agreement (EULA)](https://www.privatedocsai.com/eula). 
-
----
-*Built with privacy by VigorTech LLC.*
