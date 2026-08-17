@@ -4,7 +4,7 @@
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
 
-**PrivateDocs AI** is a secure, single-tenant AI desktop environment built for high-compliance professionals. Chat with your sensitive documents using fully local, offline AI models or isolated, zero-trust cloud vaults—ensuring your data never trains public models.
+**PrivateDocs AI** is a secure, single-tenant AI desktop environment built for high-compliance professionals. Chat with your sensitive documents using fully local, offline AI models or isolated, zero-trust cloud vaults — ensuring your data never trains public models.
 
 > **Note:** This public repository is strictly for hosting release binaries and tracking community issues/feature requests. The source code for PrivateDocs AI is closed-source and proprietary.
 
