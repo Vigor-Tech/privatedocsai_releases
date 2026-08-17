@@ -21,7 +21,7 @@ To install the latest version of PrivateDocs AI, go to our [Releases Page](../..
 ## 🚀 Getting Started
 
 1. **Download and Install:** Run the installer for your OS.
-2. **Create an Account:** Open the app and create your VigorTech account.
+2. **Create an Account:** Open the app and create your account.
 3. **Start your Free Trial:** All new accounts come with a fully-featured **7-Day Free Trial** (no limitations). 
 4. **Download Local AI Models:** The app will automatically guide you through downloading local LLMs to your machine for offline document chatting.
 
