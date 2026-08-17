@@ -27,14 +27,6 @@ To install the latest version of PrivateDocs AI, go to our [Releases Page](../..
 
 *For detailed setup instructions, visit our [Official Documentation](https://www.privatedocsai.com/docs).*
 
-## 🐛 Bug Reports & Feature Requests
-
-We use this repository to track issues and hear your feedback! If you find a bug or want to request a new feature:
-
-1. Check the [Issues tab](../../issues) to see if it has already been reported.
-2. If not, click **New Issue**.
-3. Please provide as much detail as possible, including your OS and PrivateDocs version.
-
 ## 🔒 Security & Compliance
 
 PrivateDocs AI is designed to meet strict compliance standards (SOC2, HIPAA, GDPR). 
