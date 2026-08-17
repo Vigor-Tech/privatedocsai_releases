@@ -42,7 +42,7 @@ PrivateDocs AI is designed to meet strict compliance standards (SOC2, HIPAA, GDP
 * Network traffic is heavily encrypted. 
 * We do not have access to your local files or local chat logs.
 
-If you discover a severe security vulnerability, please **DO NOT** open a public issue. Email us directly at `security@privatedocsai.com` so we can patch it immediately.
+If you discover a severe security vulnerability, email us directly at `security@privatedocsai.com` so we can patch it immediately.
 
 ## ⚖️ License
 
