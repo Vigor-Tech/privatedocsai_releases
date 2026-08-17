@@ -39,7 +39,7 @@ We use this repository to track issues and hear your feedback! If you find a bug
 
 PrivateDocs AI is designed to meet strict compliance standards (SOC2, HIPAA, GDPR). 
 * All local chats execute entirely on your GPU/CPU.
-* Network traffic is heavily encrypted. 
+* Network traffic is limited to sign in, license purchase and other account related actions. 
 * We do not have access to your local files or local chat logs.
 
 If you discover a severe security vulnerability, email us directly at `security@privatedocsai.com` so we can patch it immediately.
